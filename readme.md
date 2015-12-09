@@ -4,9 +4,10 @@
 
 ## Оглавление
 
-- [CSS](./css.md)
+- [css](./css.md)
 - [БЭМ](./BEM.md)
-- [HTML](./HTML.md)
+- [Stylus](./Stylus.md)
+- [html](./HTML.md)
 
 
 # Цели и задачи
