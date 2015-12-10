@@ -14,10 +14,10 @@ block[--blockModName[_blockModVal]][__elemName[--elemModName[_elemModVal]]]
 
 - `block-name` — блок.
 - `block-name--mod-name_mod-val` — модификатор блока в формате ключ-значение.
-- `block-name_mod` — булевый модификатор блока.
+- `block-name--mod` — булевый модификатор блока.
 - `block-name__elem-name` — элемент блока.
 - `block-name__elem-name--mod-name_mod-val` — модификатор элемента в формате ключ-значение.
-- `block-name__elem_mod` — булевый модификатор элемента.
+- `block-name__elem--mod` — булевый модификатор элемента.
 
 Иными словами есть следующие комбинации `_` и `-`
 
